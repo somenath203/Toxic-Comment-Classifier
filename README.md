@@ -4,7 +4,7 @@ This is a project which categorizes a particular toxic comment entered by the us
 
 ## Tech Stack Used
 
-From the frontend part, `Flutter` is used, for the model part, the open-source huggingface model `toxic-bert` is used and for connecting `flutter` with `toxic-bert` model, `fastAPI` is used.
+From the frontend part, `flutter` is used, for the model part, the open-source huggingface model `toxic-bert` is used and for connecting `flutter` with `toxic-bert` model, `fastAPI` is used.
 
 ## Link to the HuggingFace Model
 
